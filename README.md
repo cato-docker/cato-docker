@@ -3,7 +3,7 @@
 <!--
 - I'm Cato 
 
-- 🔭 I’m currently working on ...
+- 🔭 In this repo I am uploading basic python projects
 - 🌱 I’m currently learning about python and mongoDB
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with programming 
