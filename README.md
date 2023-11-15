@@ -25,6 +25,15 @@ Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo 
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)]()
 [![CorelDRAW](https://img.shields.io/badge/CorelDRAW-FF3A2D?style=for-the-badge&logo=corel&logoColor=white&labelColor=FF3A2D)]()
 
+## Sistemas operativos 
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6)]()
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=E95420)]()
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=557C94)]()
+[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6)]()
+
+
+
+
 ## Proyectos 
 ### Arduino
 
