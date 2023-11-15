@@ -1,7 +1,7 @@
 ### Hola mi nombre es Catriel bugin 👋
 
 
-Soy Profe de Informática
+Soy Instructor de Informática
 <img src="https://i.postimg.cc/vB1z7WKv/cato-docker-1.png">
 
 - 🔭 I’m currently working on ...
