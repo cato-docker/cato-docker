@@ -25,6 +25,9 @@ Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo 
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)]()
 [![CorelDRAW](https://img.shields.io/badge/CorelDRAW-FF3A2D?style=for-the-badge&logo=corel&logoColor=white&labelColor=FF3A2D)]()
 
+## Proyectos 
+### Arduino
+
 
 
 
