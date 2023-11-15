@@ -48,7 +48,9 @@ Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo 
 </p>
 <h3>Esquema de conexión</h3> 
 <img src="https://i.postimg.cc/fTM1Txxt/Esquema-de-conexi-n.png">
-<button>https://youtube.com/shorts/Tp1ImdyAW5Q</button>
+<a href = "https://youtube.com/shorts/Tp1ImdyAW5Q">
+  <button>YouTube</button>
+</a>
 <h2>Medidor de distancia electrónico</h2>
 <p>Materiales utilizados:
 <li>Arduino UNO R3</li>
