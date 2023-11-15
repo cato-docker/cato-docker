@@ -1,8 +1,8 @@
 ### Hola mi nombre es Catriel bugin 👋
 
 
-
 Soy Profe de Informática
+<img src="https://i.postimg.cc/sgknxG8G/Linked-In-Banner-Digital-Marketing.png">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
