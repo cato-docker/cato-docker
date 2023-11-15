@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+Soy Profe de Informática
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
