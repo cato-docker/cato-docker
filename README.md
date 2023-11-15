@@ -1,10 +1,12 @@
 ### Hola mi nombre es Catriel bugin 👋
 
 
-Soy Instructor de Informática <br>
+Soy Instructor de Informática </br>
 <img src="https://i.postimg.cc/vB1z7WKv/cato-docker-1.png">
 
-Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo que la tecnología, estoy aprendiendo sobre Back-End que es la rama que más me gusta!
+Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo que la tecnología, estoy aprendiendo sobre Back-End que es la rama que más me intereza!
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
