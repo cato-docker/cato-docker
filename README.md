@@ -1,4 +1,4 @@
-### Hola mi nombre es Catriel bugin 👋
+# Hola mi nombre es Catriel bugin 👋
 
 
 <p>Soy Instructor de Informática</p> </br>
@@ -7,13 +7,29 @@
 Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo que la tecnología, estoy aprendiendo sobre Back-End que es la rama que más me interesa!
 
 
-<h3>Lenguajes que utilizo </h3></br>
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=5A3E92)]()
-[![SQL](https://img.shields.io/badge/SQL-E60012?style=for-the-badge&logo=sql&logoColor=white&labelColor=E60012)]()
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D)]()
+## Lenguajes estoy aprendiendo a utilizar </br>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=5A3E92)]()</br>
+[![SQL](https://img.shields.io/badge/SQL-E60012?style=for-the-badge&logo=sql&logoColor=white&labelColor=E60012)]()</br>
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D)]()</br>
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)]()
 
 
-<h3>Programas que enseñaba</h3>
+
+
+## Programas que enseñaba
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)]()
+[![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white&labelColor=A4373A)]()
+[![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white&labelColor=4285F4)]()
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-BA1F1F?style=for-the-badge&logo=autocad&logoColor=white&labelColor=BA1F1F)]()
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)]()
+[![CorelDRAW](https://img.shields.io/badge/CorelDRAW-FF3A2D?style=for-the-badge&logo=corel&logoColor=white&labelColor=FF3A2D)]()
+
+
+
+
+
+
 
 
 
