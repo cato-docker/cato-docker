@@ -1,7 +1,7 @@
 # Hola mi nombre es Catriel bugin 👋
 
 
-<p>Soy Instructor de Informática 💻</p> </br>
+<p>Soy Back-End Developer Trainee 💻</p> </br>
 <img src="https://i.postimg.cc/vB1z7WKv/cato-docker-1.png">
 
 Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo que la tecnología, estoy aprendiendo sobre Back-End que es la rama que más me interesa!
