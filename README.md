@@ -2,7 +2,7 @@
 
 
 <p>Soy Back-End Developer 💻</p> </br>
-<img src="https://i.postimg.cc/vB1z7WKv/cato-docker-1.png">
+<img src="https://i.postimg.cc/TwrR99xF/cato-docker-1.png">
 
 Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo que la tecnología, estoy aprendiendo sobre Back-End que es la rama que más me interesa!
 
