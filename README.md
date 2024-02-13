@@ -17,7 +17,7 @@ Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo 
 
 
 
-## Programas que enseñaba
+## Programas que enseño
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)]()
 [![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white&labelColor=A4373A)]()
 [![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white&labelColor=4285F4)]()
