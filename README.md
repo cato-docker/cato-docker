@@ -4,7 +4,7 @@
 <p>Soy Back-End Developer 💻</p> </br>
 <img src="https://i.postimg.cc/TwrR99xF/cato-docker-1.png">
 
-Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo que la tecnología, estoy aprendiendo sobre Back-End que es la rama que más me interesa!
+Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo que la tecnología, estoy aprendiendo sobre Back-End y Front-End que es lo que me llama la atención!
 
 
 ## Lenguajes estoy aprendiendo a utilizar </br>
@@ -13,6 +13,9 @@ Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo 
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D)]()</br>
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)]()
+[![HTML](https://img.shields.io/badge/HTML-E67E22?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-E67E22?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 
 
