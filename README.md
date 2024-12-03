@@ -2,7 +2,7 @@
 
 
 <p>Soy Desarrollador WordPress 💻</p> </br>
-<img src="https://i.postimg.cc/TwrR99xF/cato-docker-1.png">
+<img src="https://i.postimg.cc/cJHZK1wM/cato-docker-3.png">
 
 Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo que la tecnología, estoy aprendiendo sobre Back-End y Front-End que es lo que me llama la atención!
 
