@@ -1,7 +1,7 @@
 # Hola mi nombre es Catriel bugin 👋
 
 
-<p>Soy Back-End Developer 💻</p> </br>
+<p>Soy Desarrollador WordPress 💻</p> </br>
 <img src="https://i.postimg.cc/TwrR99xF/cato-docker-1.png">
 
 Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo que la tecnología, estoy aprendiendo sobre Back-End y Front-End que es lo que me llama la atención!
@@ -20,11 +20,12 @@ Me dedico a la enseñanza informal hace más de diez años, me apasiona todo lo 
 
 
 
-## Programas que enseño
+## Programas que utilizo
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)]()
 [![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white&labelColor=A4373A)]()
 [![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white&labelColor=4285F4)]()
-[![AutoCAD](https://img.shields.io/badge/AutoCAD-BA1F1F?style=for-the-badge&logo=autocad&logoColor=white&labelColor=BA1F1F)]()
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B)]()
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)]()
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)]()
 [![CorelDRAW](https://img.shields.io/badge/CorelDRAW-FF3A2D?style=for-the-badge&logo=corel&logoColor=white&labelColor=FF3A2D)]()
 
